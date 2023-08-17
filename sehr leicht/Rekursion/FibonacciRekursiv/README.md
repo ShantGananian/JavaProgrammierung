@@ -1,6 +1,6 @@
 # Aufgabe: Fibonacci rekursiv
-> Themengebiet: Rekursion  
-> Schwierigkeitsgrad: Sehr leicht $\left(\blacksquare\Box\Box\Box\Box\right)$
+> **Themengebiet:** Rekursion  
+> **Schwierigkeitsgrad:** Sehr leicht $\color{navy}{\left(\blacksquare\Box\Box\Box\Box\right)}$
 
 Schreiben Sie eine Methode ```long fibRec(int)```, die die Fibonacci-Zahlen rekursiv basierend auf folgender Definition berechnet:
 
