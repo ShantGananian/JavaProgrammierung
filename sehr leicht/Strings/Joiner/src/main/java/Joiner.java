@@ -12,10 +12,10 @@ public class Joiner {
 
     public static void main(String[] args) {
 
-        var result1 = join(List.of("Account", "Type", "Balance"), " --- "); // Testergebnis: hallo +++ welt +++ nachricht
-        System.out.println(result1);
-        var result2 = join(List.of("John", "apple"), " likes ");   // Testergebnis: John likes apple
-        System.out.println(result2);
+        var result1 = join(List.of("Account", "Type", "Balance"), " --- ");
+        System.out.println(result1);  // Testergebnis: hallo +++ welt +++ nachricht
+        var result2 = join(List.of("John", "apple"), " likes ");
+        System.out.println(result2);  // Testergebnis: John likes apple
     }
 
     public static String join(final List<String> list, final String separator) {
