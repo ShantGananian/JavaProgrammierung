@@ -1,5 +1,6 @@
 /*
  * Zahlenumwandlungen
+ */
 
 /**
  *
@@ -8,6 +9,7 @@
 public class Zahlenumwandlungen {
 
     public static void main(String[] args) {
+
         isBinaryNumber("1001"); // Ein Beispiel, das einen booleschen Wert true zurückgibt.
     }
 
