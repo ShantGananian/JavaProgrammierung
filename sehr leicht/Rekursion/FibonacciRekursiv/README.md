@@ -13,3 +13,6 @@ Prüfen Sie die Implementierung beispielsweise mit folgendem Werteverlauf:
 |Eingabe| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8|
 |---|---|---|---|---|---|---|---|---|
 |**fib(n)**| 1 | 1 | 2 | 3 | 5 | 8 | 13 | 21|
+
+
+> [Mögliche Lösung](https://github.com/ShantGananian/JavaProgrammierung/blob/master/sehr%20leicht/Rekursion/FibonacciRekursiv/src/main/java/FibonacciRekursiv.java)
