@@ -1,6 +1,6 @@
 # Aufgabe: Gerade oder ungerade Zahl
-> Themengebiet: Mathematische Aufgabe  
-> Schwierigkeitsgrad: Sehr leicht $\left(\blacksquare\Box\Box\Box\Box\right)$
+> **Themengebiet:** Mathematische Aufgabe  
+> **Schwierigkeitsgrad:** Sehr leicht $\color{navy}{\left(\blacksquare\Box\Box\Box\Box\right)}$
 
 Erstellen Sie die Methoden ```isEven(n)``` und ```isOdd(n)```, die prüfen, ob die übergebene Ganzzahl gerade bzw. ungerade ist.
 
