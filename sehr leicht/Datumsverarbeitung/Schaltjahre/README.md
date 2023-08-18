@@ -19,4 +19,4 @@ Eingabe |	Regel	| Resultat
 2020|	durch 4 teilbar|	Schaltjahr
 
 
-> [Mögliche Lösung](https://github.com/ShantGananian/JavaProgrammierung/blob/master/sehr%20leicht/Datumsverarbeitung/Schaltjahre/src/main/java/Schaltjahre.java)
+> [Meine Lösung](https://github.com/ShantGananian/JavaProgrammierung/blob/master/sehr%20leicht/Datumsverarbeitung/Schaltjahre/src/main/java/Schaltjahre.java)
