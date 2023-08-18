@@ -7,3 +7,5 @@
 - [Fibonacci rekursiv](https://github.com/ShantGananian/JavaProgrammierung/tree/master/sehr%20leicht/Rekursion/FibonacciRekursiv) $\small\color{orange}{\left(\blacksquare\Box\Box\Box\Box\right)}$
 
 - [Zahlenumwandlungen](https://github.com/ShantGananian/JavaProgrammierung/tree/master/sehr%20leicht/Strings/Zahlenumwandlungen) $\small\color{orange}{\left(\blacksquare\Box\Box\Box\Box\right)}$
+
+- [Schaltjahre](https://github.com/ShantGananian/JavaProgrammierung/tree/master/sehr%20leicht/Datumsverarbeitung/Schaltjahre) $\small\color{orange}{\left(\blacksquare\Box\Box\Box\Box\right)}$
