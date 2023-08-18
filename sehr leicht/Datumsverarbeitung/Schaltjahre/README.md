@@ -13,7 +13,7 @@ Schreiben Sie eine Methode ```boolean isLeap(int)``` – natürlich ohne Verwend
 
 **Beispiele**
 Eingabe |	Regel	| Resultat
-:---:|:---:|:---:|
+---|---|---|
 1900	|Säkularjahr|	kein Schaltjahr
 2000	|Säkularjahr, aber durch 400 teilbar|	Schaltjahr
 2020|	durch 4 teilbar|	Schaltjahr
