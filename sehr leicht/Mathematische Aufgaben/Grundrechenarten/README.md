@@ -14,6 +14,6 @@ m | n | m * n | m * n / 2 | Resultat ((n * m / 2) % 7)
 
 Als kleiner Hinweis zur Erinnerung hier nochmals: Bei einer Ganzzahldivision wird der Rest abgeschnitten, deswegen ergibt 25/2 als Ergebnis den Wert 12.
 
-> [Mögliche Lösung](https://github.com/ShantGananian/JavaProgrammierung/blob/master/sehr%20leicht/Mathematische%20Aufgaben/Grundrechenarten/src/main/java/Grundrechenarten.java)
+> [Meine Lösung](https://github.com/ShantGananian/JavaProgrammierung/blob/master/sehr%20leicht/Mathematische%20Aufgaben/Grundrechenarten/src/main/java/Grundrechenarten.java)
 
 
