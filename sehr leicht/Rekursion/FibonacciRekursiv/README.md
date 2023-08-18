@@ -15,4 +15,4 @@ Prüfen Sie die Implementierung beispielsweise mit folgendem Werteverlauf:
 |**fib(n)**| 1 | 1 | 2 | 3 | 5 | 8 | 13 | 21|
 
 
-> [Mögliche Lösung](https://github.com/ShantGananian/JavaProgrammierung/blob/master/sehr%20leicht/Rekursion/FibonacciRekursiv/src/main/java/FibonacciRekursiv.java)
+> [Meine Lösung](https://github.com/ShantGananian/JavaProgrammierung/blob/master/sehr%20leicht/Rekursion/FibonacciRekursiv/src/main/java/FibonacciRekursiv.java)
