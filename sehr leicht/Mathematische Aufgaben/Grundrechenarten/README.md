@@ -1,6 +1,8 @@
+[![Static Badge](https://img.shields.io/badge/-Deutsche_Version-forestgreen)](https://github.com/ShantGananian/JavaProgrammierung/blob/master/sehr%20leicht/Mathematische%20Aufgaben/Grundrechenarten/README.de.md)
+
 # Aufgabe: Grundrechenarten
 > **Themengebiet:** Mathematische Aufgabe  
-> **Schwierigkeitsgrad:** Sehr leicht $\small\color{orange}{\left(\blacksquare\Box\Box\Box\Box\right)}$  
+> **Schwierigkeitsgrad:** Sehr leicht $\small\color{crimson}{\left(\blacksquare\Box\Box\Box\Box\right)}$  
 
 Schreiben Sie eine Methode ```int calc(int, int)```, die zwei Variablen $m$ und $n$ vom Typ ```int```  multipliziert, das Produkt dann halbiert und den Rest bezüglich der Division durch 7 ausgibt.
 
@@ -15,5 +17,3 @@ m | n | m * n | m * n / 2 | Resultat ((n * m / 2) % 7)
 Als kleiner Hinweis zur Erinnerung hier nochmals: Bei einer Ganzzahldivision wird der Rest abgeschnitten, deswegen ergibt 25/2 als Ergebnis den Wert 12.
 
 > [Meine Lösung](https://github.com/ShantGananian/JavaProgrammierung/blob/master/sehr%20leicht/Mathematische%20Aufgaben/Grundrechenarten/src/main/java/Grundrechenarten.java)
-
-
