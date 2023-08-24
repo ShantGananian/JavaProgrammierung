@@ -2,7 +2,7 @@
 
 # Aufgabe: Grundrechenarten
 > **Themengebiet:** Mathematische Aufgabe  
-> **Schwierigkeitsgrad:** Sehr leicht $\small\color{mediumvioletred}{\left(\blacksquare\Box\Box\Box\Box\right)}$  
+> **Schwierigkeitsgrad:** Sehr leicht $\small\color{firebrick}{\left(\blacksquare\Box\Box\Box\Box\right)}$  
 
 Schreiben Sie eine Methode ```int calc(int, int)```, die zwei Variablen $m$ und $n$ vom Typ ```int```  multipliziert, das Produkt dann halbiert und den Rest bezüglich der Division durch 7 ausgibt.
 
