@@ -1,4 +1,4 @@
-[![Static Badge](https://img.shields.io/badge/-English_version-forestgreen)](https://github.com/ShantGananian/JavaProgrammierung/edit/master/sehr%20leicht/Strings/Joiner/README.md)
+[![Static Badge](https://img.shields.io/badge/-English_version-forestgreen)](https://github.com/ShantGananian/JavaProgrammierung/blob/master/sehr%20leicht/Strings/Joiner/README.md)
 # Aufgabe: Joiner
 > **Themengebiet:** Strings  
 > **Schwierigkeitsgrad:** Sehr leicht $\small\color{crimson}{\left(\blacksquare\Box\Box\Box\Box\right)}$  
