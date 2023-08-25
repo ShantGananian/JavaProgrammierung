@@ -1,8 +1,10 @@
-# Aufgabe: Gerade oder ungerade Zahl
-> **Themengebiet:** Mathematische Aufgabe  
-> **Schwierigkeitsgrad:** Sehr leicht $\small\color{orange}{\left(\blacksquare\Box\Box\Box\Box\right)}$
+[![Static Badge](https://img.shields.io/badge/-Deutsche_Version-forestgreen)](https://github.com/ShantGananian/JavaProgrammierung/blob/master/sehr%20leicht/Mathematische%20Aufgaben/GeradeOderUngeradeZahl/README.de.md)
 
-Erstellen Sie die Methoden ```isEven(n)``` und ```isOdd(n)```, die prüfen, ob die übergebene Ganzzahl gerade bzw. ungerade ist.
+# Exercise: Even or Odd Number
+> **Thema:** Mathematical Problems  
+> **Difficulty Level:** Very easy $\small\color{crimson}{\left(\blacksquare\Box\Box\Box\Box\right)}$
 
-> [Meine Lösung](https://github.com/ShantGananian/JavaProgrammierung/blob/master/sehr%20leicht/Mathematische%20Aufgaben/GeradeOderUngeradeZahl/src/main/java/GeradeOderUngeradeZahl.java)
+Create the methods ```isEven(n)``` and ```isOdd(n)```that will check if the passed integer is even or odd, respectively.
+
+> [My solution](https://github.com/ShantGananian/JavaProgrammierung/blob/master/sehr%20leicht/Mathematische%20Aufgaben/GeradeOderUngeradeZahl/src/main/java/GeradeOderUngeradeZahl.java)
 
